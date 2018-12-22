@@ -1,0 +1,4 @@
+﻿Интерфейсы IWebDriver (методы URL, Close, Manage, Navigate, Quit, FindElement), 
+IWebElement (методы Submit, Click, Clear, Selected, Displayed)
+Классы PageFactory(методы InitElements), Actions (методы Build, KeyDown, MouseDown, Click, 
+MoveToElement, Release, Perform), Assert (Equals, AreEqual, True, IsEmpty, IsFalse, IsNull)

@@ -1,0 +1,9 @@
+﻿1 - если выбирать надо все элементы
+1)
+/html/body/*
+
+2)
+/html/body/descendant::*
+
+3)
+//body/form[@id='loginForm']
